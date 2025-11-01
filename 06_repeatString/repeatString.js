@@ -13,10 +13,5 @@ const repeatString = function(string, num)
     return finalString;
 };
 
-// let string = "hello";
-// let num = 3;
-
-console.log(repeatString("hello", 3));
-
 // Do not edit below this line
 module.exports = repeatString;
